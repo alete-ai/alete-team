@@ -1,0 +1,13 @@
+{
+  "name": "alete-team",
+  "version": "0.6.0",
+  "description": "An elite AI squad extension for the Gemini CLI, featuring Julian, Maya, Serra, Aris, and Lyra.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "extension:refresh": "gemini extensions uninstall alete-team && gemini extensions install ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.28.2"
+}
