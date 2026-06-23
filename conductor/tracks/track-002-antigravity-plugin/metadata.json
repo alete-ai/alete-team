@@ -1,0 +1,9 @@
+{
+  "id": "track-002",
+  "name": "Transforming Alete-Team into an Antigravity CLI Plugin",
+  "status": "In Progress",
+  "description": "Expose the Alete-Team expert squad as a first-class Antigravity CLI plugin skill by adding a skills folder, alete-team/SKILL.md, and updating the installation refresh script.",
+  "dependencies": [
+    "track-001"
+  ]
+}
