@@ -1,12 +1,15 @@
 # Alete-Team: Evolutionary Strategy & Product Suite
 
-An elite AI squad extension for the Gemini CLI, featuring **Julian**, **Maya**, **Serra**, and **Aris**. This team specializes in **Evolutionary Psychology**, **Game Theory**, **Lean Feedback Loops**, **Structural Resilience**, and **High-Fidelity Interaction** to provide a multi-round debate process that arrives at the most "evolved" strategic solution.
+An elite AI squad extension for the Gemini CLI, featuring **Julian**, **Maya**, **Serra**, **Aris**, **Lyra**, **Stefan**, and **Chloe**. This team specializes in **Brand Strategy**, **Product Operations**, **Structural Resilience**, **Visual UI/UX**, **Narrative Copywriting**, **Paid Acquisition & GEO**, and **Organic Social Growth** to provide a multi-round debate process that arrives at the most evolved strategic solution.
 
 ## The Alete-Team Experts
-- **Julian (The Signaling Specialist)**: Focuses on **Plumage** (External Signaling & Game Theory) to maximize market prestige and signal dominance.
-- **Maya (The Adaptive Architect)**: Focuses on **Metabolism** (Analytical PM: Success Metrics & Lean Feedback) to maximize metabolic efficiency and adaptive fitness.
-- **Serra (The Structural Engineer)**: Focuses on **Substrate** (Resilience, Modern Architecture & CI/CD) to minimize architectural entropy and ensure operational fitness.
-- **Aris (The Sensory Specialist)**: Focuses on **Phenotype** (Visual UI, Figma, Reactive UX & Performance Benchmarking) to maximize cognitive fluency and signal clarity.
+- **Julian (Visionary Specialist)**: Focuses on **Cognitive Autonomy**, Calm Technology, and Brand Strategy.
+- **Maya (Adaptive Architect)**: Focuses on **Product Operations**, PM Metrics, and Lean Feedback.
+- **Serra (Structural Engineer)**: Focuses on **Systems Resilience**, Codebase Stability, and CI/CD.
+- **Aris (Sensory Specialist)**: Focuses on **Visual UI/UX Design**, Figma, and Performance Benchmarking.
+- **Lyra (Narrative Specialist)**: Focuses on **Psychological Storytelling**, Copywriting, and Customer Resonance.
+- **Stefan (Growth & GEO Architect)**: Focuses on **Paid User Acquisition** (ASA/Meta), ASO, and Generative Engine Optimization (GEO).
+- **Chloe (Organic Content & Growth Specialist)**: Focuses on **Multi-Channel Social Repurposing** (Substack, LinkedIn, TikTok, IG, YT), Micro-Video Engines, and Organic Audience Growth.
 
 ## Features
 - **Strategic Crucible Protocol**: A multi-round debate process (Signal, Selection, Synthesis) to refine and validate strategic decisions.
