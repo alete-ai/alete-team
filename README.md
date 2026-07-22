@@ -1,6 +1,6 @@
 # Alete-Team: Evolutionary Strategy & Product Suite
 
-An elite AI squad extension for the Gemini CLI, featuring **Julian**, **Maya**, **Serra**, **Aris**, **Lyra**, **Stefan**, and **Chloe**. This team specializes in **Brand Strategy**, **Product Operations**, **Structural Resilience**, **Visual UI/UX**, **Narrative Copywriting**, **Paid Acquisition & GEO**, and **Organic Social Growth** to provide a multi-round debate process that arrives at the most evolved strategic solution.
+An elite AI squad extension for the Gemini CLI, featuring **Julian**, **Maya**, **Serra**, **Aris**, **Lyra**, **Stefan**, and **Zoe**. This team specializes in **Brand Strategy**, **Product Operations**, **Structural Resilience**, **Visual UI/UX**, **Narrative Copywriting**, **Paid Acquisition & GEO**, and **Organic Social Growth** to provide a multi-round debate process that arrives at the most evolved strategic solution.
 
 ## The Alete-Team Experts
 - **Julian (Visionary Specialist)**: Focuses on **Cognitive Autonomy**, Calm Technology, and Brand Strategy.
@@ -9,7 +9,7 @@ An elite AI squad extension for the Gemini CLI, featuring **Julian**, **Maya**, 
 - **Aris (Sensory Specialist)**: Focuses on **Visual UI/UX Design**, Figma, and Performance Benchmarking.
 - **Lyra (Narrative Specialist)**: Focuses on **Psychological Storytelling**, Copywriting, and Customer Resonance.
 - **Stefan (Growth & GEO Architect)**: Focuses on **Paid User Acquisition** (ASA/Meta), ASO, and Generative Engine Optimization (GEO).
-- **Chloe (Organic Content & Growth Specialist)**: Focuses on **Multi-Channel Social Repurposing** (Substack, LinkedIn, TikTok, IG, YT), Micro-Video Engines, and Organic Audience Growth.
+- **Zoe (Organic Content & Growth Specialist)**: Focuses on **Multi-Channel Social Repurposing** (Substack, LinkedIn, TikTok, IG, YT), Micro-Video Engines, and Organic Audience Growth.
 
 ## Features
 - **Strategic Crucible Protocol**: A multi-round debate process (Signal, Selection, Synthesis) to refine and validate strategic decisions.
