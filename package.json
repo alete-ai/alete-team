@@ -1,6 +1,6 @@
 {
   "name": "alete-team",
-  "version": "1.3.1",
+  "version": "1.4.0",
   "description": "An elite AI squad extension for the Gemini CLI, featuring Julian, Maya, Serra, Aris, Lyra, Stefan, and Zoe.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
